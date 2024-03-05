@@ -1,16 +1,40 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### Work in progress
 
-{% include base_path %}
-**Work in progress ** 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa
+with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"}, [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
+<style>
+  .line-break {
+    margin-bottom: 0.5px; /* Adjust the value to control the size of the space after the line break */
+  }
+</style>
+<details>
+<summary>Abstract: </summary>
+<small> </small><br><br>
+</details>
+
+_Presentations: Symposium of the Spanish Economic Association (Valencia, 2022), Naples School of Economics and Finance workshop (Naples, 2022), Jornadas de Economia Industrial (Gran Canaria, 2022), Finance Forum PhD session (Santiago de Compostela, 2022), Young Economist Seminar at the Dubrovnik Economic Forum (Dubrovnik, 2022), Bank for International Settlements research meeting (Basel, 2022)._
+
+
+
+## Privacy regulation and fintech lending 
+with [Sebastian Doerr][doerrlink]{:target="_blank" rel="noopener"}, [Leonardo Gambacorta][gambacortalink]{:target="_blank" rel="noopener"} and [Luigi Guiso][guisolink]{:target="_blank" rel="noopener"}
+
+<style>
+  .line-break {
+    margin-bottom: 0.5px; /* Adjust the value to control the size of the space after the line break */
+  }
+</style>
+
+<br class="line-break">
+<span style="color:coral"> Best paper award at FMARC 2023 </span> 
+
+<details>
+<summary>Abstract </summary>
+<small>Consumers dislike sharing data with fintechs but better access to data can improve loan market outcomes. We study how the California Consumer Privacy Act (CCPA), which grants users control over and mitigates concerns about sharing data, affects bank and fintech lending. Difference-in-differences estimations show that the CCPA increases mortgage applications to fintechs relative to banks in California. Further evidence suggests that applicants' greater willingness to share data improves fintechs' screening process: they engage in more individualized pricing, deny more applications, and increase their use of non-traditional data. In turn, they offer lower loan rates, in particular to traditionally under-served groups.</small><br><br>
+</details>
