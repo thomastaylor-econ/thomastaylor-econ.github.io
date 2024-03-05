@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_photo_TT.jpg"
   name             : "Thomas Taylor"
   pronouns         : # example: "she/her"  
-  bio              : "Economics PhD student at the European University Institute"
+  bio              : "Economics PhD student"
   location         : "Florence, Italy"
-  employer         : # "European University Institute"
+  employer         : "European University Institute"
   uri              : # URL
   email            : "thomas.taylor@eui.eu" 
 
