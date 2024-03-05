@@ -16,10 +16,10 @@ My interests are primarly in political economy and development economics.
 **Contact** :  
 Email : [thomas.taylor@eui.eu](mailto: thomas.taylor@eui.eu) \\
 Address : European Univeristy Institute \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Economics \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Villa La Fonte \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Via delle Fontanelle, 18 \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50014 San Domenico di Fiesole (FI)
+&nbsp;         Department of Economics \\
+&nbsp;         Villa La Fonte \\
+&nbsp;         Via delle Fontanelle, 18 \\
+&nbsp;         50014 San Domenico di Fiesole (FI)
 
 
 [eui_link]: https://eui.eu/economics
