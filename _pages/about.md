@@ -10,7 +10,7 @@ Hello !
 
 I am a third-year PhD student in Economics at the [European University Institute][eui_link]. I work under the supervision of [Thomas Crossley][crossley_link] and [Alessandro Tarozzi][tarozzi_link] . 
 
-My interests are primarly in political economy, development and media economics. 
+My interests are primarly in political economy and development economics. 
 
 
 **Contact** :  
@@ -23,5 +23,5 @@ Address : European Univeristy Institute \\
 
 
 [eui_link]: https://eui.eu/economics
-[tarozzi_link]: [https://sites.google.com/view/giacomo-calzolari](https://sites.google.com/site/alessandrotarozzi/home)
+[tarozzi_link]: https://sites.google.com/site/alessandrotarozzi/home
 [crossley_link]: https://sites.google.com/site/tfcrossley/
