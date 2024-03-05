@@ -4,9 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-### Work in progress
+## Work in progress
 
-## Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa
+### Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa
 with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"}, [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
 <style>
   .line-break {
@@ -33,7 +33,7 @@ a political supply mechanism [work in progress]. Preliminary content analysis su
 differences in online campaigning practices. </small><br><br>
 
 
-## Far-Right Ownership in the Printed-Press and Public Policy
+### Far-Right Ownership in the Printed-Press and Public Policy
 with [Matthieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}
 
 <style>
