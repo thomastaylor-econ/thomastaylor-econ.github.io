@@ -12,7 +12,7 @@ with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"}, [Jordan Loper]
   .line-break {
     margin-bottom: 0.5px; /* Adjust the value to control the size of the space after the line break */
   }
-
+</style>
 Abstract:
 <small> Can social media promote female access to political positions? Internet and social media
 have facilitated a number of evolutions regarding ideas, perceptions and attitudes towards women
@@ -41,9 +41,6 @@ with [Matthieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [S
     margin-bottom: 0.5px; /* Adjust the value to control the size of the space after the line break */
   }
 </style>
-
-<br class="line-break">
-<span style="color:coral"> Best paper award at FMARC 2023 </span> 
 
 
 
