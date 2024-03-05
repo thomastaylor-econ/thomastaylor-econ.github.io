@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : *twitter  # Replace this with your X / Twitter handle
+  twitter          :  "Th0masTaylor" # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -119,7 +119,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "Th0masTaylor"
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
