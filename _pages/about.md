@@ -10,7 +10,7 @@ Hello !
 
 I am a third-year PhD student in Economics at the [European University Institute][eui_link]. I work under the supervision of [Thomas Crossley][crossley_link] and [Alessandro Tarozzi][tarozzi_link] . 
 
-My interests are primarly in political economy and development economics. 
+My research interests are primarly in political economy and development economics. 
 
 
 **Contact** :  
