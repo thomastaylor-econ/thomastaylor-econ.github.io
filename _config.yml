@@ -139,6 +139,8 @@ analytics:
   google:
     tracking_id          :
 
+# Google Analytics
+google_analytics: G-5MEEDBQS7N
 
 # Reading Files
 include:
