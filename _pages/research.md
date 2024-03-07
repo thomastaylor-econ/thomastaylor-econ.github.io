@@ -7,7 +7,7 @@ author_profile: true
 ## Work in progress
 
 ### Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa
-with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"}, [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
+with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
 <style>
   .line-break {
     margin-bottom: 0.5px; /* Adjust the value to control the size of the space after the line break */
