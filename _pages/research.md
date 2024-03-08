@@ -21,7 +21,7 @@ with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Lop
 
 
 ### Far-Right Ownership in the Printed Press and Public Policy
-with [Matthieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}
+with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}
 
 <style>
   .line-break {
