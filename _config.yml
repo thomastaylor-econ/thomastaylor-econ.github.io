@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio_photo_TT.jpg"
+  avatar           : "bio_photo_TT_2.jpg"
   name             : "Thomas Taylor"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD student"
