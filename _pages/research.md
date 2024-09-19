@@ -15,8 +15,10 @@ with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Lop
 </style>
 <div style="text-align: justify">
 <small>
-<ins>Abstract:</ins>
+<details>
+<summary>Abstract: </summary>
  Can social media promote female access to political positions? Internet and social media have facilitated a number of evolutions regarding ideas, perceptions and attitudes towards women and their role in society. This paper focuses on the sub-Saharan African context, where female under-representation is particularly salient in both the political and media spheres, and which experienced a rising penetration of Facebook over the past decade. We build a novel panel dataset at the constituency-election level and exploit variation in the electoral outcomes observed across 8,162 races occurring in the context of 63 parliamentary elections in 17 countries. We leverage the staggered introduction of Facebook's Free Basics -i.e. free access to Facebook through partner mobile operators- across constituencies and time, and document the success of this connectivity shock and its subsequent effect on female political representation. We find that larger accessibility of Facebook fosters the election of female candidates, but only in the medium-run. This effect is driven by female candidates endorsed by established political parties, and running for the first time. Analysis based on survey data shows that a larger demand for female leadership supports the electoral effect. Finally, we explore two transmission channels: (i) transfers of gender norms through exposure to Facebook content produced in more progressive countries, and (ii) greater visibility of female politicians through online campaigns. </small> <br><br>
+</details>
 </div>
 
 
