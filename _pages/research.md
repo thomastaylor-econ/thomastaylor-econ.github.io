@@ -40,7 +40,7 @@ Newspapers shape the beliefs and attitudes of citizens, creating room for politi
 </details>
 
 
-### Printing Progress: Newspapers and Female Emancipation in Pre-Suffrage Britain
+### Printing Progress? Newspapers and Female Emancipation in Pre-Suffrage Britain
 with [Andrea Tizzani][tizzani_link]{:target="_blank" rel="noopener"}
 
 
