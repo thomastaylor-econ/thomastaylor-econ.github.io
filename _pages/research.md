@@ -48,7 +48,7 @@ Newspapers shape the beliefs and attitudes of citizens, creating room for politi
 ### Printing Progress? Newspapers and Female Emancipation in Pre-Suffrage Britain
 with [Andrea Tizzani][tizzani_link]{:target="_blank" rel="noopener"}
 
-### Exposure to Informal Markets and Educational Choices : Evidence from Artisanal Mines
+### Exposure to Informal Markets and Educational Choices: Evidence from Artisanal Mines
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 
 
