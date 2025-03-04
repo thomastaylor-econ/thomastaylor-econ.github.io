@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Work in progress
+## Working papers 
 
 ### Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa
 with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
@@ -18,10 +18,13 @@ with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Lop
 <summary>Abstract </summary>
 <div style="text-align: justify">
 <small>
- Can social media promote female access to political positions? Internet and social media have facilitated a number of evolutions regarding ideas, perceptions and attitudes towards women and their role in society. This paper focuses on the sub-Saharan African context, where female under-representation is particularly salient in both the political and media spheres, and which experienced a rising penetration of Facebook over the past decade. We build a novel panel dataset at the constituency-election level and exploit variation in the electoral outcomes observed across 8,162 races occurring in the context of 63 parliamentary elections in 17 countries. We leverage the staggered introduction of Facebook's Free Basics -i.e. free access to Facebook through partner mobile operators- across constituencies and time, and document the success of this connectivity shock and its subsequent effect on female political representation. We find that larger accessibility of Facebook fosters the election of female candidates, but only in the medium-run. This effect is driven by female candidates endorsed by established political parties, and running for the first time. Analysis based on survey data shows that a larger demand for female leadership supports the electoral effect. Finally, we explore two transmission channels: (i) transfers of gender norms through exposure to Facebook content produced in more progressive countries, and (ii) greater visibility of female politicians through online campaigns. </small> <br><br>
+Can social media help promote female access to political positions? Using data from 8,814 parliamentary races across 17 sub-Saharan African countries, we explore this question in a context of significant political underrepresentation of women and rising Facebook penetration over the past decade. We leverage the staggered introduction of Facebook's Free Basics--i.e., free access to Facebook through partner mobile operators--across constituencies and time, documenting the success of this connectivity shock and its subsequent effect on female political representation. We find that the availability of Facebook's Free Basics significantly increases the election of female candidates, but only after one electoral cycle. This effect is driven by female candidates endorsed by established political parties and running for the rst time. Uncovering the underlying mechanisms, we document a large, positive relationship between social media use and egalitarian gender norms, particularly regarding women in politics. Examining users' online network structures, we show that this association is driven by exposure to diverse and progressive content, and that such online connections are key to Free Basics' electoral impact. Finally, we find that Free Basics' effect is contingent on the presence of fair elections but is amplied where traditional press freedom is limited </small> <br><br>
 
 </div>
 </details>
+
+
+## Work in progress
 
 ### Far-Right Ownership in the Printed Press and Public Policy
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}
@@ -39,9 +42,14 @@ Newspapers shape the beliefs and attitudes of citizens, creating room for politi
 </div>
 </details>
 
+### Early but not Alone? Mail Voting and Within-Couple Political Agency 
+
 
 ### Printing Progress? Newspapers and Female Emancipation in Pre-Suffrage Britain
 with [Andrea Tizzani][tizzani_link]{:target="_blank" rel="noopener"}
+
+### Exposure to Informal Markets and Educational Choices : Evidence from Artisanal Mines
+with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 
 
 
