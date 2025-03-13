@@ -7,7 +7,7 @@ author_profile: true
 ## Working papers 
 
 ### Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa
-with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
+with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}, *Submitted* 
 
 <style>
   .line-break {
@@ -22,6 +22,8 @@ Can social media help promote female access to political positions? Using data f
 
 </div>
 </details>
+
+[\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"}
 
 
 ## Work in progress
@@ -52,7 +54,7 @@ with [Andrea Tizzani][tizzani_link]{:target="_blank" rel="noopener"}
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 
 
-
+[HLT_ssrn] : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176903
 [hatte_link]: https://sites.google.com/site/sophiehatte/
 [couttenier_link]: https://sites.google.com/site/coutteniermathieu/home
 [loper_link]: https://sites.google.com/view/jordanloper/home
