@@ -7,11 +7,11 @@ author_profile: true
 ## Working papers 
 
 ### Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa
-with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"} , *Submitted* 
+with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}, *Submitted* 
 
 <style>
   .line-break {
-    margin-bottom: 0.5px; /* Adjust the value to control the size of the space after the line break */
+    margin-bottom: 0.2px; /* Adjust the value to control the size of the space after the line break */
   }
 </style>
 <details>
@@ -33,7 +33,7 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [So
 
 <style>
   .line-break {
-    margin-bottom: 0.5px; /* Adjust the value to control the size of the space after the line break */
+    margin-bottom: 0.2px; /* Adjust the value to control the size of the space after the line break */
   }
 </style>
 <details>
