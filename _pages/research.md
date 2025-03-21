@@ -23,7 +23,7 @@ Can social media help promote female access to political positions? Using data f
 </div>
 </details>
 
-[\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"}
+[\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CERGIC Working Paper\]][HLT_cergic]{:target="_blank" rel="noopener"} 
 
 
 ## Work in progress
@@ -54,8 +54,11 @@ with [Andrea Tizzani][tizzani_link]{:target="_blank" rel="noopener"}
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 
 
-
+[//]: # (Paper links)
 [HLT_ssrn]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176903
+[HLT_cergic]: https://hal.science/hal-04988949
+
+[//]: # (Co-authors)
 [hatte_link]: https://sites.google.com/site/sophiehatte/
 [couttenier_link]: https://sites.google.com/site/coutteniermathieu/home
 [loper_link]: https://sites.google.com/view/jordanloper/home
