@@ -37,15 +37,15 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [So
   }
 </style>
 
-<!---
-<details>
-<summary>Abstract </summary>
-<div style="text-align: justify">
-<small>
-Newspapers shape the beliefs and attitudes of citizens, creating room for politicians to extract a large political dividend of controlling the press.  By studying the take-over of one of the most important newspapers in Switzerland (the <i>Bazler Zeitung</i>) in 2010 by a prominent figure of the Swiss right-wing populist party (Swiss People’s Party, SVP), we estimate how politically motivated ownership in the media industry affects preferences towards public policy. By collecting the universe of news articles published in German-speaking Switzerland since 2006 by 7 leading daily newspapers, we show that, following the take-over, the editorial-line of the <i>Bazler Zeitung</i> converged towards the platform of the SVP. This convergence is particularly strong in weeks preceding important electoral events. In addition, we document endogenous responses in content production by the <i>Bazler Zeitung</i>’s competitors. Leveraging Switzerland’s referendum system on public policy issues, we measure alignment with political parties on policy preferences at the municipality level for 145 referendums over the 2002-2023 period. We show that the take-over significantly increased turnout and alignment with the SVP in municipalities where the <i>Bazler Zeitung</i> was circulating prior to it. </small> <br><br>
-</div>
-</details>
--->
+
+[comment]: <> <details>
+[comment]: <> <summary>Abstract </summary>
+[comment]: <> <div style="text-align: justify">
+[comment]: <> <small>
+[comment]: <> Newspapers shape the beliefs and attitudes of citizens, creating room for politicians to extract a large political dividend of controlling the press.  By studying the take-over of one of the most important newspapers in Switzerland (the <i>Bazler Zeitung</i>) in 2010 by a prominent figure of the Swiss right-wing populist party (Swiss People’s Party, SVP), we estimate how politically motivated ownership in the media industry affects preferences towards public policy. By collecting the universe of news articles published in German-speaking Switzerland since 2006 by 7 leading daily newspapers, we show that, following the take-over, the editorial-line of the <i>Bazler Zeitung</i> converged towards the platform of the SVP. This convergence is particularly strong in weeks preceding important electoral events. In addition, we document endogenous responses in content production by the <i>Bazler Zeitung</i>’s competitors. Leveraging Switzerland’s referendum system on public policy issues, we measure alignment with political parties on policy preferences at the municipality level for 145 referendums over the 2002-2023 period. We show that the take-over significantly increased turnout and alignment with the SVP in municipalities where the <i>Bazler Zeitung</i> was circulating prior to it. </small> <br><br>
+[comment]: <> </div>
+[comment]: <> </details>
+
 
 ### Early but not Alone? Mail Voting and Within-Couple Political Agency 
 
