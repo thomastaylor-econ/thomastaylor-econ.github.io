@@ -23,7 +23,7 @@ Can social media help promote female access to political positions? Using data f
 </div>
 </details>
 
-[\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CERGIC Working Paper\]][HLT_cergic]{:target="_blank" rel="noopener"} 
+[\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR Discussion Paper No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} 
 
 
 ## Work in progress
@@ -36,6 +36,8 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [So
     margin-bottom: 0.2px; /* Adjust the value to control the size of the space after the line break */
   }
 </style>
+
+<!---
 <details>
 <summary>Abstract </summary>
 <div style="text-align: justify">
@@ -43,6 +45,7 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [So
 Newspapers shape the beliefs and attitudes of citizens, creating room for politicians to extract a large political dividend of controlling the press.  By studying the take-over of one of the most important newspapers in Switzerland (the <i>Bazler Zeitung</i>) in 2010 by a prominent figure of the Swiss right-wing populist party (Swiss People’s Party, SVP), we estimate how politically motivated ownership in the media industry affects preferences towards public policy. By collecting the universe of news articles published in German-speaking Switzerland since 2006 by 7 leading daily newspapers, we show that, following the take-over, the editorial-line of the <i>Bazler Zeitung</i> converged towards the platform of the SVP. This convergence is particularly strong in weeks preceding important electoral events. In addition, we document endogenous responses in content production by the <i>Bazler Zeitung</i>’s competitors. Leveraging Switzerland’s referendum system on public policy issues, we measure alignment with political parties on policy preferences at the municipality level for 145 referendums over the 2002-2023 period. We show that the take-over significantly increased turnout and alignment with the SVP in municipalities where the <i>Bazler Zeitung</i> was circulating prior to it. </small> <br><br>
 </div>
 </details>
+-->
 
 ### Early but not Alone? Mail Voting and Within-Couple Political Agency 
 
@@ -57,6 +60,7 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 [//]: # (Paper links)
 [HLT_ssrn]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176903
 [HLT_cergic]: https://hal.science/hal-04988949
+[HLT_cepr]: https://cepr.org/publications/dp20116
 
 [//]: # (Co-authors)
 [hatte_link]: https://sites.google.com/site/sophiehatte/
