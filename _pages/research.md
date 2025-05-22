@@ -6,9 +6,8 @@ author_profile: true
 
 ## Working papers 
 
-**Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa** (2025, *Submitted*)
-
-with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}, *Submitted* 
+**Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa** (2025), *Submitted*  
+with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
 
 <style>
   .line-break {
@@ -24,13 +23,12 @@ Can social media help promote female access to political positions? Using data f
 </div>
 </details>
 
-[\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR Discussion Paper No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} 
+[\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR Discussion Paper No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} [\[VoxEU\]][HLT_vox]{:target="_blank" rel="noopener"}
 
 
 ## Work in progress
 
-**Far-Right Ownership in the Printed Press and Public Policy**
-
+**Far-Right Ownership in the Printed Press and Public Policy**  
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}
 
 <style>
@@ -52,12 +50,10 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [So
 **Early but not Alone? Mail Voting and Within-Couple Political Agency**
 
 
-**Printing Progress? Newspapers and Female Emancipation in Pre-Suffrage Britain**
-
+**Printing Progress? Newspapers and Female Emancipation in Pre-Suffrage Britain**  
 with [Andrea Tizzani][tizzani_link]{:target="_blank" rel="noopener"}
 
-**Exposure to Informal Markets and Educational Choices: Evidence from Artisanal Mines**
-
+**Exposure to Informal Markets and Educational Choices: Evidence from Artisanal Mines**  
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 
 
@@ -65,6 +61,7 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 [HLT_ssrn]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176903
 [HLT_cergic]: https://hal.science/hal-04988949
 [HLT_cepr]: https://cepr.org/publications/dp20116
+[HLT_vox]: https://cepr.org/voxeu/columns/digital-access-and-gender-representation-case-major-connectivity-shock-sub-saharan
 
 [//]: # (Co-authors)
 [hatte_link]: https://sites.google.com/site/sophiehatte/
