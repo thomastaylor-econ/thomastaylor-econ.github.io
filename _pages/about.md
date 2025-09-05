@@ -12,7 +12,7 @@ I am a fourth-year PhD student in Economics at the [European University Institut
 
 My research interests are primarly in political economy and development economics. 
 
-[comment:] I am currently visiting the Center for Economic Research on Governance, Inequality and Conflict ([CERGIC][cergic_link]) at ENS Lyon, sponsored by Mathieu Couttenier and Sophie Hatte.
+[comment:] <> I am currently visiting the Center for Economic Research on Governance, Inequality and Conflict ([CERGIC][cergic_link]) at ENS Lyon, sponsored by Mathieu Couttenier and Sophie Hatte.
 
 **Contact** :  
 Email : [thomas.taylor@eui.eu](mailto: thomas.taylor@eui.eu) \\
