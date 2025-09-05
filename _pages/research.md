@@ -6,8 +6,8 @@ author_profile: true
 
 ## Working papers 
 
-**Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa** (2025), *Submitted*  
-with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
+**Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa**, with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
+[\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR DP No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} [\[VoxEU\]][HLT_vox]{:target="_blank" rel="noopener"}
 
 <style>
   .line-break {
@@ -18,12 +18,10 @@ with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Lop
 <summary>Abstract </summary>
 <div style="text-align: justify">
 <small>
-Can social media help promote female access to political positions? Using data from 8,814 parliamentary races across 17 sub-Saharan African countries, we explore this question in a context of significant political underrepresentation of women and rising Facebook penetration over the past decade. We leverage the staggered introduction of Facebook's Free Basics--i.e., free access to Facebook through partner mobile operators--across constituencies and time, documenting the success of this connectivity shock and its subsequent effect on female political representation. We find that the availability of Facebook's Free Basics significantly increases the election of female candidates, but only after one electoral cycle. This effect is driven by female candidates endorsed by established political parties and running for the first time. Uncovering the underlying mechanisms, we document a large, positive relationship between social media use and egalitarian gender norms, particularly regarding women in politics. Examining users' online network structures, we show that this association is driven by exposure to diverse and progressive content, and that such online connections are key to Free Basics' electoral impact. Finally, we find that Free Basics' effect is contingent on the presence of fair elections but is amplified where traditional press freedom is limited </small> <br><br>
+Can social media help promote female access to political positions? Using data from 8,814 parliamentary races across 17 sub-Saharan African countries, we study this question in a context of persistent underrepresentation of women and rising Facebook penetration. Leveraging the staggered introduction of Facebook's Free Basics, i.e., free access to the platform via partner mobile operators, we find that its introduction significantly increases the election of female candidates, though only after one electoral cycle. The delayed effect reflects a gradual process: initially, male candidates endorsed by parliamentary parties experience declining electoral margins, followed in subsequent elections by greater endorsement and electoral success of female challengers. These dynamics suggest strategic learning by political parties, particularly in supporting first-time female candidates. To uncover mechanisms, we analyze how Free Basics access and social media usage influences political attitudes and social norms. We find that access to Free Basics fosters more egalitarian gender norms, especially regarding women in politics, reflected more strongly in online than offline environments. These changes are not simply a byproduct of broader political dissatisfaction or a generalized demand for political renewal. Importantly, the effect is strongest in contexts where access to Facebook connects users to more diverse online networks with greater female leadership representation. </small> <br><br>
 
 </div>
 </details>
-
-[\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR Discussion Paper No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} [\[VoxEU\]][HLT_vox]{:target="_blank" rel="noopener"}
 
 
 ## Work in progress
