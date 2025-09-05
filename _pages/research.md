@@ -7,15 +7,14 @@ author_profile: true
 ## Working papers 
 
 - **Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa**, with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
-
-&nbsp; &nbsp; [\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR DP No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} [\[VoxEU\]][HLT_vox]{:target="_blank" rel="noopener"}
+&nbsp; &nbsp; &nbsp; &nbsp;  [\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR DP No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} [\[VoxEU\]][HLT_vox]{:target="_blank" rel="noopener"}
 
 <style>
   .line-break {
     margin-bottom: 0.0px; /* Adjust the value to control the size of the space after the line break */
   }
 </style>
-<details>
+&nbsp;  &nbsp;  &nbsp;  &nbsp; <details>
 <summary>Abstract </summary>
 <div style="text-align: justify">
 <small>
