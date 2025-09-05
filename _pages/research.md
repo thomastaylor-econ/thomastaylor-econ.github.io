@@ -6,7 +6,8 @@ author_profile: true
 
 ## Working papers 
 
-**Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa**, with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
+- **Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa**, with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"}
+
 [\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR DP No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} [\[VoxEU\]][HLT_vox]{:target="_blank" rel="noopener"}
 
 <style>
@@ -26,7 +27,7 @@ Can social media help promote female access to political positions? Using data f
 
 ## Work in progress
 
-**Far-Right Ownership in the Printed Press and Public Policy**  
+- **Far-Right Ownership in the Printed Press and Public Policy**  
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}
 
 <style>
@@ -45,13 +46,13 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [So
 [comment]: <> </details>
 
 
-**Early but not Alone? Mail Voting and Within-Couple Political Agency**
+- **Early but not Alone? Mail-in Voting and Within-Couple Political Agency**
 
 
-**Printing Progress? Newspapers and Female Emancipation in Pre-Suffrage Britain**  
+- **Printing Progress? Newspapers and Female Emancipation in Pre-Suffrage Britain**  
 with [Andrea Tizzani][tizzani_link]{:target="_blank" rel="noopener"}
 
-**Exposure to Informal Markets and Educational Choices: Evidence from Artisanal Mines**  
+- **Exposure to Informal Markets and Educational Choices: Evidence from Artisanal Mines**  
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 
 
