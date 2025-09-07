@@ -10,7 +10,7 @@ Welcome !
 
 I am a fourth-year PhD student in Economics at the [European University Institute][eui_link]. I work under the supervision of [Thomas Crossley][crossley_link] and [Alessandro Tarozzi][tarozzi_link]. 
 
-My research interests are primarly in political economy and development economics. You can learn more about it [here][research_link].
+My research interests are primarly in political economy and development economics. You can learn more about my research [here][research_link].
 
 [comment]: <> I am currently visiting the Center for Economic Research on Governance, Inequality and Conflict ([CERGIC][cergic_link]) at ENS Lyon, sponsored by Mathieu Couttenier and Sophie Hatte.
 
