@@ -3,7 +3,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<div class="page-content">
 
   
 ## Working papers 
@@ -63,5 +62,3 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 [vlachos_link]: https://www.stephanosvlachos.com/
 [tizzani_link]: https://www.andreatizzani.com/
 
-
-</div>
