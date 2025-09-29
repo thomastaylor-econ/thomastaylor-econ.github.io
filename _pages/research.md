@@ -7,7 +7,7 @@ author_profile: true
   
 ## Working papers 
 
-- **Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa**, with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"} <span style="color:gray"> (latest version: September 2025) </span>. <br/>
+- **Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa**, with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"} <span style="color:gray"> (latest version: September 2025) </span> <br/>
   [\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR DP No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} [\[VoxEU\]][HLT_vox]{:target="_blank" rel="noopener"}
   <details>
   <summary>Abstract </summary>
