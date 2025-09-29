@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="page-content">
-
+<div class="mytext">
 
 Welcome !
 
@@ -20,10 +19,12 @@ My research interests are primarly in political economy and development economic
 
 You can reach me at [thomas.taylor@eui.eu](mailto: thomas.taylor@eui.eu).
 
-</div>
 
 [eui_link]: https://eui.eu/economics
 [tarozzi_link]: https://sites.google.com/site/alessandrotarozzi/home
 [crossley_link]: https://sites.google.com/site/tfcrossley/
 [cergic_link]: https://www.cergic-lyon.fr/
 [research_link]: https://thomastaylor-econ.github.io/research/
+
+</div>
+
