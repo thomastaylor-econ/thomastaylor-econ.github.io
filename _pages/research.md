@@ -3,7 +3,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<div class="page-content">
 
+  
 ## Working papers 
 
 - **Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa**, with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"} <br/>
@@ -60,3 +62,6 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 [loper_link]: https://sites.google.com/view/jordanloper/home
 [vlachos_link]: https://www.stephanosvlachos.com/
 [tizzani_link]: https://www.andreatizzani.com/
+
+
+</div>
