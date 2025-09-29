@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="mytext">
-
 Welcome !
 
 I am a PhD candidate in Economics at the [European University Institute][eui_link], working under the supervision of [Thomas Crossley][crossley_link] and [Alessandro Tarozzi][tarozzi_link]. 
@@ -26,5 +24,4 @@ You can reach me at [thomas.taylor@eui.eu](mailto: thomas.taylor@eui.eu).
 [cergic_link]: https://www.cergic-lyon.fr/
 [research_link]: https://thomastaylor-econ.github.io/research/
 
-</div>
 
