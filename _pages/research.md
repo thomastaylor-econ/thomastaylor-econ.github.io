@@ -49,7 +49,7 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [So
 with [Andrea Tizzani][tizzani_link]{:target="_blank" rel="noopener"}
 
 - **Exposure to Informal Markets and Educational Choices: Evidence from Artisanal Mines**  
-with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
+with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"} and [Julia Hélie][helie_link]{:target="_blank" rel="noopener"}
 
 
 [//]: # (Paper links)
@@ -64,4 +64,5 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}
 [loper_link]: https://sites.google.com/view/jordanloper/home
 [vlachos_link]: https://www.stephanosvlachos.com/
 [tizzani_link]: https://www.andreatizzani.com/
+[helie_link]: https://sites.google.com/view/juliahelie
 
