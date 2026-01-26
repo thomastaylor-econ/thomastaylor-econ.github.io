@@ -9,7 +9,6 @@ author_profile: true
 
 - **Connecting the Unconnected: Facebook Access and Female Political Participation in Sub-Saharan Africa**, with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"} <span style="color:gray"> (latest version: September 2025) </span> <br/>
   Revise and Resubmit at the *Journal of Political Economy* <br/>
-  [\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR DP No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} 
   <details>
   <summary>Abstract </summary>
   <div style="text-align: justify">
@@ -17,7 +16,7 @@ author_profile: true
   Can social media help promote female access to political positions? Using data from 8,814 parliamentary races across 17 sub-Saharan African countries, we study this question in a context of persistent underrepresentation of women and rising Facebook penetration. Leveraging the staggered introduction of Facebook's Free Basics, i.e., free access to the platform via partner mobile operators, we find that its introduction significantly increases the election of female candidates, though only after one electoral cycle. The delayed effect reflects a gradual process: initially, male candidates endorsed by parliamentary parties experience declining electoral margins, followed in subsequent elections by greater endorsement and electoral success of female challengers. These dynamics suggest strategic learning by political parties, particularly in supporting first-time female candidates. To uncover mechanisms, we analyze how Free Basics access and social media usage influences political attitudes and social norms. We find that access to Free Basics fosters more egalitarian gender norms, especially regarding women in politics, reflected more strongly in online than offline environments. These changes are not simply a byproduct of broader political dissatisfaction or a generalized demand for political renewal. Importantly, the effect is strongest in contexts where access to Facebook connects users to more diverse online networks with greater female leadership representation. </small> <br><br>
   </div>
   </details>
-
+ [\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR DP No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} 
   Coverage: [\[VoxEU\]][HLT_vox]{:target="_blank" rel="noopener"}
 
 
