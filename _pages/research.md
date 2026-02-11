@@ -20,13 +20,6 @@ author_profile: true
 
  - **Early but not Alone? Mail-in Voting and Within-Couple Political Agency** <br/>
   <span style="color:gray"> [Draft coming soon] </span> <br/>
-  <details>
-  <summary>Abstract </summary>
-  <div style="text-align: justify">
-  <small>
-  This paper studies how the introduction of no-excuse mail voting impacted partisan voting among couples in the United States. By leveraging its staggered introduction by US states, I show that mail-in voting has reduced the gender gap in partisan voting among couples by at least 1.1 percentage point while it did not affect that of single voters. In particular, this effect is driven by increased Republican voting among lower-educated women and a converse moderate decline among men. Studying mechanisms, I show that turnout accounts only for a fraction of the result. Instead, this paper documents that mail-in voting significantly increases political interactions among couples. Shifts in voting are unequally followed in terms of ideological feeling across demographics, suggesting increased interactions might enable ideological convergence, but that it is only partial and greatly intersects with within-couple agency. Finally, studying the universe of reported violent events between partners in 28 US states over 10 years, I show that daily intimate partner violence incidence at the county level by 2.5% during mail voting periods. This result provides strong evidence that coercion, enabled by mail voting, can be driving part of the unaccounted-for results. </small> <br><br>
-  </div>
-  </details>
 
 
 ## Work in progress
