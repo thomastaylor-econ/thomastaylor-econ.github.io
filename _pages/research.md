@@ -18,7 +18,7 @@ author_profile: true
   </div>
   </details>
 
- - **Early but not Alone? Mail-in Voting and Within-Couple Political Agency**
+ - **Early but not Alone? Mail-in Voting and Within-Couple Political Agency** <br/>
 <span style="color:gray"> [Draft coming soon] </span>
 
 
