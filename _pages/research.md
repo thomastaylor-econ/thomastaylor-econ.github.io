@@ -19,7 +19,7 @@ author_profile: true
   </details>
 
  - **Early but not Alone? Mail-in Voting and Within-Couple Political Agency** <br/>
-<span style="color:gray"> [Draft coming soon] </span>
+<span style="color:gray"> [Draft coming soon] </span> <br/>
  <details>
   <summary>Abstract </summary>
   <div style="text-align: justify">
