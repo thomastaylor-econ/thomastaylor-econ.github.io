@@ -18,7 +18,7 @@ author_profile: true
   </div>
   </details>
 
- - **Early but not Alone? Mail-in Voting and Within-Couple Political Agency** <br/>
+ - **Voting at the Dining Table: How Mail-in Ballots impact Couples' Political Behavior** <br/>
   <span style="color:gray"> [Draft coming soon] </span> <br/>
 
 
