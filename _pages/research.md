@@ -24,8 +24,10 @@ author_profile: true
 
 ## Work in progress
 
-- **Far-Right Ownership in the Printed Press and Public Policy**  
+- **Partisan Media Ownership, News Content, and Policy Preferences**  
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}
+<span style="color:gray"> [Draft coming soon] </span>
+
 
 <style>
   .line-break {
