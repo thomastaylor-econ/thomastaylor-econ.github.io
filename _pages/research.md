@@ -25,8 +25,8 @@ author_profile: true
 ## Work in progress
 
 - **Partisan Media Ownership, News Content, and Policy Preferences**  
-with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}
-<span style="color:gray"> [Draft coming soon] </span>
+with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"} <br/>
+<span style="color:gray">  [Draft coming soon] </span> 
 
 
 <style>
