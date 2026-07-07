@@ -19,7 +19,7 @@ author_profile: true
   </details>
 
 - **Partisan Media Ownership, News Content, and Policy Preferences**  
-with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}  <span style="color:gray"> <span style="color:gray"> (latest version: July 2026) </span> <br/>
+with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}  <span style="color:gray"> (latest version: July 2026) </span> <br/>
 *Submitted* <br/>
   [\[SSRN\]][CHTV_ssrn]{:target="_blank" rel="noopener"} <br/>
   <details>
