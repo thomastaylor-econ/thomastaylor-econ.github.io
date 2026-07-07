@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers 
 
 - **Connecting the Unconnected: Facebook Access and Female Political Representation in Sub-Saharan Africa**, with [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Jordan Loper][loper_link]{:target="_blank" rel="noopener"} <span style="color:gray"> (latest version: September 2025) </span> <br/>
-  Revise and Resubmit, *Journal of Political Economy* <br/>
+  *Revise and Resubmit, Journal of Political Economy* <br/>
   [\[SSRN\]][HLT_ssrn]{:target="_blank" rel="noopener"} [\[CEPR DP No. 20116\]][HLT_cepr]{:target="_blank" rel="noopener"} [\[VoxEU\]][HLT_vox]{:target="_blank" rel="noopener"}  <br/>
   <details>
   <summary>Abstract </summary>
@@ -19,7 +19,8 @@ author_profile: true
   </details>
 
 - **Partisan Media Ownership, News Content, and Policy Preferences**  
-with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"} <br/> <span style="color:gray"> <span style="color:gray"> (latest version: July 2026) </span> <br/>
+with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}  <span style="color:gray"> <span style="color:gray"> (latest version: July 2026) </span> <br/>
+*Submitted* <br/>
   [\[SSRN\]][CHTV_ssrn]{:target="_blank" rel="noopener"} <br/>
   <details>
   <summary>Abstract </summary>
