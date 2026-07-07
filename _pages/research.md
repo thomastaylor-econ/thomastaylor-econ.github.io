@@ -18,32 +18,23 @@ author_profile: true
   </div>
   </details>
 
+- **Partisan Media Ownership, News Content, and Policy Preferences**  
+with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"} <br/>
+<span style="color:gray"> <span style="color:gray"> (latest version: July 2026) </span> <br/>
+  [\[SSRN\]][CHTV_ssrn]{:target="_blank" rel="noopener"} <br/>
+  <details>
+  <summary>Abstract </summary>
+  <div style="text-align: justify">
+  <small>
+  We study how partisan newspaper ownership shapes news content, media demand, and policy preferences. Our setting is the 2010 takeover of the Basler Zeitung, a leading Swiss regional daily, by owners affiliated with the conservative Swiss People's Party (SVP), and its 2018 sale to a nonpartisan media group. We combine over three million articles from six German-language Swiss newspapers with municipality-level circulation data and outcomes from 160 federal referendums over twenty years. Using difference-in-differences designs that compare the Basler Zeitung to control group newspapers and exploit cross-municipality variation in pre-takeover penetration, we trace the effects of ownership along the full chain from content to readership and voting. Partisan ownership shifts coverage toward the SVP platform, especially before referendum votes and on party-sponsored proposals. Circulation declines by 28.8 percent during partisan ownership. Losses are largest in historically left-aligned municipalities, but exposure to the newspaper remains substantial even there. At mean pre-takeover penetration, partisan ownership increases SVP-aligned vote shares by 0.34 percentage points across all referendums, implying a persuasion rate of 14.6 percent among retained, persuadable readers, with larger effects for referendums closely tied to the party platform. Overall, ownership induces both ideological sorting in media demand and persuasion among voters who remain exposed, with political effects concentrated in local environments where SVP positions are more prevalent or less strongly opposed. </small> <br><br>
+  </div>
+  </details>
+
  - **Voting at the Dining Table: How Mail-in Ballots impact Couples' Political Behavior** <br/>
   <span style="color:gray"> [Draft coming soon] </span> <br/>
 
 
 ## Work in progress
-
-- **Partisan Media Ownership, News Content, and Policy Preferences**  
-with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"} <br/>
-<span style="color:gray">  [Draft coming soon] </span> 
-
-
-<style>
-  .line-break {
-    margin-bottom: 0.2px; /* Adjust the value to control the size of the space after the line break */
-  }
-</style>
-
-
-[comment]: <> <details>
-[comment]: <> <summary>Abstract </summary>
-[comment]: <> <div style="text-align: justify">
-[comment]: <> <small>
-[comment]: <> Newspapers shape the beliefs and attitudes of citizens, creating room for politicians to extract a large political dividend of controlling the press.  By studying the take-over of one of the most important newspapers in Switzerland (the <i>Bazler Zeitung</i>) in 2010 by a prominent figure of the Swiss right-wing populist party (Swiss People’s Party, SVP), we estimate how politically motivated ownership in the media industry affects preferences towards public policy. By collecting the universe of news articles published in German-speaking Switzerland since 2006 by 7 leading daily newspapers, we show that, following the take-over, the editorial-line of the <i>Bazler Zeitung</i> converged towards the platform of the SVP. This convergence is particularly strong in weeks preceding important electoral events. In addition, we document endogenous responses in content production by the <i>Bazler Zeitung</i>’s competitors. Leveraging Switzerland’s referendum system on public policy issues, we measure alignment with political parties on policy preferences at the municipality level for 145 referendums over the 2002-2023 period. We show that the take-over significantly increased turnout and alignment with the SVP in municipalities where the <i>Bazler Zeitung</i> was circulating prior to it. </small> <br><br>
-[comment]: <> </div>
-[comment]: <> </details>
-
 
 - **Printing Progress? Newspapers and Female Emancipation in Pre-Suffrage Britain**  
 with [Andrea Tizzani][tizzani_link]{:target="_blank" rel="noopener"}
@@ -57,6 +48,9 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"} and 
 [HLT_cergic]: https://hal.science/hal-04988949
 [HLT_cepr]: https://cepr.org/publications/dp20116
 [HLT_vox]: https://cepr.org/voxeu/columns/digital-access-and-gender-representation-case-major-connectivity-shock-sub-saharan
+
+[CHTV_ssrn]: https://papers.ssrn.com/abstract=7071119
+
 
 [//]: # (Co-authors)
 [hatte_link]: https://sites.google.com/site/sophiehatte/
