@@ -21,7 +21,7 @@ author_profile: true
 - **Partisan Media Ownership, News Content, and Policy Preferences**  
 with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [Sophie Hatte][hatte_link]{:target="_blank" rel="noopener"} and [Stephanos Vlachos][vlachos_link]{:target="_blank" rel="noopener"}  <span style="color:gray"> (latest version: July 2026) </span> <br/>
 *Submitted* <br/>
-  [\[SSRN\]][CHTV_ssrn]{:target="_blank" rel="noopener"} <br/>
+  [\[SSRN\]][CHTV_ssrn]{:target="_blank" rel="noopener"} [\[CEPR DP No. 21735\]][CHTV_cepr]{:target="_blank" rel="noopener"} <br/>
   <details>
   <summary>Abstract </summary>
   <div style="text-align: justify">
@@ -50,7 +50,7 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"} and 
 [HLT_vox]: https://cepr.org/voxeu/columns/digital-access-and-gender-representation-case-major-connectivity-shock-sub-saharan
 
 [CHTV_ssrn]: https://papers.ssrn.com/abstract=7071119
-
+[CHTV_cepr]:https://cepr.org/publications/dp21735
 
 [//]: # (Co-authors)
 [hatte_link]: https://sites.google.com/site/sophiehatte/
