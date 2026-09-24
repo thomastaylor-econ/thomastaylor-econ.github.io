@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome !
-
 I am a PhD candidate in Economics at the [European University Institute][eui_link], working under the supervision of [Thomas Crossley][crossley_link] and [Alessandro Tarozzi][tarozzi_link]. 
 
 My research interests are primarly in political economy and development economics. You can learn more about my research [here][research_link].
