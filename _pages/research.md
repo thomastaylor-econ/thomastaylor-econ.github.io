@@ -30,7 +30,7 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [So
   </div>
   </details>
 
- - **Voting at the Dining Table: How Mail-in Ballots impact Couples' Political Behavior** <br/>
+ - **Voting at the Dining Table: How Mail-in Ballots Impact Couples' Political Behavior** <br/>
   <span style="color:gray"> [Draft coming soon] </span> <br/>
 
 
