@@ -4,6 +4,17 @@ permalink: /research/
 author_profile: true
 ---
 
+## Job Market Paper
+ - **Voting at the Dining Table: How Mail-in Ballots Impact Couples' Political Behavior** <br/>
+  <span style="color:gray"> [Draft coming soon] </span> <br/>
+  <details>
+  <summary>Abstract </summary>
+  <div style="text-align: justify">
+  <small>
+  This paper studies how mail voting reshapes the political behavior of couples in the United States. Leveraging differences in implementation across states, I study its effects throughout the political decision-making process, from take-up to views and actions, both across and within election cycles. Partners overwhelmingly adopt mail voting jointly, reshaping the household's political life: exploiting the varying length of mail voting periods across states, I show that couple members report significantly more political interactions during such periods, while singles do not. I then document three direct downstream consequences. The introduction of mail voting is associated with a leftward shift among married men, in both partisan ideology and policy views. This effect is primarily concentrated among independent and left-leaning men, while no effects are uncovered among Republicans. Using administrative data on the content and origin of actual ballots, I show that mail voting is associated with significant excess pairs of identical ballots within precincts, suggesting important coordination between partners. Finally, mail-voting periods are associated with a 1.8% increase in the daily number of reported violent incidents between partners, highlighting that increased observability can result in higher within-couple conflict.
+  </small> <br><br>
+  </div>
+  </details>
   
 ## Working papers 
 
@@ -29,9 +40,6 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"}, [So
   We study how partisan newspaper ownership shapes news content, media demand, and policy preferences. Our setting is the 2010 takeover of the Basler Zeitung, a leading Swiss regional daily, by owners affiliated with the conservative Swiss People's Party (SVP), and its 2018 sale to a nonpartisan media group. We combine over three million articles from six German-language Swiss newspapers with municipality-level circulation data and outcomes from 160 federal referendums over twenty years. Using difference-in-differences designs that compare the Basler Zeitung to control group newspapers and exploit cross-municipality variation in pre-takeover penetration, we trace the effects of ownership along the full chain from content to readership and voting. Partisan ownership shifts coverage toward the SVP platform, especially before referendum votes and on party-sponsored proposals. Circulation declines by 28.8 percent during partisan ownership. Losses are largest in historically left-aligned municipalities, but exposure to the newspaper remains substantial even there. At mean pre-takeover penetration, partisan ownership increases SVP-aligned vote shares by 0.34 percentage points across all referendums, implying a persuasion rate of 14.6 percent among retained, persuadable readers, with larger effects for referendums closely tied to the party platform. Overall, ownership induces both ideological sorting in media demand and persuasion among voters who remain exposed, with political effects concentrated in local environments where SVP positions are more prevalent or less strongly opposed. </small> <br><br>
   </div>
   </details>
-
- - **Voting at the Dining Table: How Mail-in Ballots Impact Couples' Political Behavior** <br/>
-  <span style="color:gray"> [Draft coming soon] </span> <br/>
 
 
 ## Work in progress
