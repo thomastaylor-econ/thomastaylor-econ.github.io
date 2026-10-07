@@ -13,7 +13,7 @@ My research interests are primarly in political economy and development economic
 
 [comment]: <> I am currently visiting the Center for Economic Research on Governance, Inequality and Conflict ([CERGIC][cergic_link]) at ENS Lyon, sponsored by Mathieu Couttenier and Sophie Hatte.
 
-**I am on the 2026/2027 economics academic job market.**
+**I am on the 2026/2027 academic job market.**
 
 You can reach me at [thomas.taylor@eui.eu](mailto: thomas.taylor@eui.eu).
 
