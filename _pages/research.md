@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ## Job Market Paper
- - **Voting at the Dining Table: How Mail-in Ballots Impact Couples' Political Behavior** <br/>
+
+- **Voting at the Dining Table: How Mail-in Ballots Impact Couples' Political Behavior** <br/>
   <span style="color:gray"> [Draft coming soon] </span> <br/>
   <details>
   <summary>Abstract </summary>
