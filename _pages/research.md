@@ -7,7 +7,7 @@ author_profile: true
 ## Job Market Paper
 
 - **Voting at the Dining Table: How Mail-in Ballots Impact Couples' Political Behavior** <br/>
-  <span style="color:gray"> [Draft coming soon] </span> <br/>
+  [\[Paper\]][JMP_git]{:target="_blank" rel="noopener"} <br/>
   <details>
   <summary>Abstract </summary>
   <div style="text-align: justify">
@@ -53,6 +53,8 @@ with [Mathieu Couttenier][couttenier_link]{:target="_blank" rel="noopener"} and 
 
 
 [//]: # (Paper links)
+[JMP_git]: https://thomastaylor-econ.github.io/files/Taylor_JMP.pdf
+
 [HLT_ssrn]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176903
 [HLT_cergic]: https://hal.science/hal-04988949
 [HLT_cepr]: https://cepr.org/publications/dp20116
